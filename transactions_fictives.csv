@@ -1,0 +1,85 @@
+date,description,montant,categorie
+2025-01-02,Loyer,2500,Logement
+2025-01-04,Courses supermarche,385,Alimentation
+2025-01-08,Abonnement bus,180,Transport
+2025-01-12,Facture electricite,245,Logement
+2025-01-17,Restaurant,145,Loisirs
+2025-01-23,Pharmacie,92,Sante
+2025-01-28,Cafe et sortie,110,Loisirs
+2025-02-02,Loyer,2500,Logement
+2025-02-05,Courses supermarche,420,Alimentation
+2025-02-09,Taxi,75,Transport
+2025-02-13,Facture internet,249,Logement
+2025-02-16,Cinema,120,Loisirs
+2025-02-21,Produits menagers,135,Alimentation
+2025-02-26,Restaurant,165,Loisirs
+2025-03-02,Loyer,2500,Logement
+2025-03-04,Courses supermarche,360,Alimentation
+2025-03-08,Abonnement bus,180,Transport
+2025-03-12,Facture electricite,310,Logement
+2025-03-17,Consultation medicale,250,Sante
+2025-03-22,Restaurant,190,Loisirs
+2025-03-28,Cafe,65,Loisirs
+2025-04-02,Loyer,2500,Logement
+2025-04-05,Courses supermarche,455,Alimentation
+2025-04-09,Taxi,60,Transport
+2025-04-13,Facture internet,249,Logement
+2025-04-16,Sortie restaurant,210,Loisirs
+2025-04-21,Pharmacie,78,Sante
+2025-04-27,Marche alimentaire,125,Alimentation
+2025-05-02,Loyer,2500,Logement
+2025-05-04,Courses supermarche,395,Alimentation
+2025-05-08,Abonnement bus,180,Transport
+2025-05-12,Facture electricite,275,Logement
+2025-05-16,Concert,320,Loisirs
+2025-05-22,Restaurant,155,Loisirs
+2025-05-28,Produits menagers,118,Alimentation
+2025-06-02,Loyer,2500,Logement
+2025-06-05,Courses supermarche,440,Alimentation
+2025-06-09,Taxi,85,Transport
+2025-06-13,Facture internet,249,Logement
+2025-06-17,Medicaments,105,Sante
+2025-06-22,Restaurant,175,Loisirs
+2025-06-27,Marche alimentaire,145,Alimentation
+2025-07-02,Loyer,2500,Logement
+2025-07-04,Courses supermarche,510,Alimentation
+2025-07-08,Abonnement bus,180,Transport
+2025-07-12,Facture electricite,360,Logement
+2025-07-16,Sortie estivale,420,Loisirs
+2025-07-22,Restaurant,230,Loisirs
+2025-07-28,Pharmacie,86,Sante
+2025-08-02,Loyer,2500,Logement
+2025-08-05,Courses supermarche,475,Alimentation
+2025-08-09,Taxi,95,Transport
+2025-08-13,Facture internet,249,Logement
+2025-08-17,Reparation telephone,1850,Autres
+2025-08-22,Restaurant,185,Loisirs
+2025-08-28,Marche alimentaire,160,Alimentation
+2025-09-02,Loyer,2500,Logement
+2025-09-04,Courses supermarche,410,Alimentation
+2025-09-08,Abonnement bus,180,Transport
+2025-09-12,Facture electricite,295,Logement
+2025-09-16,Consultation medicale,300,Sante
+2025-09-21,Cinema,135,Loisirs
+2025-09-27,Produits menagers,122,Alimentation
+2025-10-02,Loyer,2500,Logement
+2025-10-05,Courses supermarche,430,Alimentation
+2025-10-09,Taxi,70,Transport
+2025-10-13,Facture internet,249,Logement
+2025-10-17,Restaurant,195,Loisirs
+2025-10-22,Pharmacie,95,Sante
+2025-10-28,Marche alimentaire,140,Alimentation
+2025-11-02,Loyer,2500,Logement
+2025-11-04,Courses supermarche,390,Alimentation
+2025-11-08,Abonnement bus,180,Transport
+2025-11-12,Facture electricite,330,Logement
+2025-11-16,Sortie restaurant,225,Loisirs
+2025-11-22,Medecin,280,Sante
+2025-11-27,Produits menagers,130,Alimentation
+2025-12-02,Loyer,2500,Logement
+2025-12-05,Courses supermarche,520,Alimentation
+2025-12-09,Taxi,90,Transport
+2025-12-13,Facture internet,249,Logement
+2025-12-17,Cadeaux,650,Loisirs
+2025-12-22,Restaurant,260,Loisirs
+2025-12-28,Pharmacie,110,Sante
